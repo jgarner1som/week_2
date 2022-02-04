@@ -1,0 +1,4 @@
+   71 cat.txt
+  659 grep.txt
+  239 ls.txt
+  969 total
